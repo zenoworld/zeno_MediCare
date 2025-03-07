@@ -12,11 +12,11 @@ export default async function NewAppointment({ params: { userId } }: SearchParam
 
         <div className="sub-container max-w-[860px] flex-1 justify-between">
           <Image
-            src='/assets/icons/logo-full.svg'
+            src='/assets/icons/logo.png'
             width={1000}
             height={1000}
             alt="icon"
-            className="h-10 w-fit mb-10"
+            className="h-14 w-fit mb-10"
           />
 
           <AppointmentForm

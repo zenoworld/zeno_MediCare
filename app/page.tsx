@@ -14,11 +14,11 @@ export default function  Home ({searchParams}:SearchParamProps) {
 
         <div className="sub-container max-w-[490px]">
           <Image
-            src='/assets/icons/logo-full.svg'
+            src='/assets/icons/logo.png'
             width={1000}
             height={1000}
             alt="icon"
-            className="h-10 w-fit mb-10"
+            className="h-14 w-fit mb-10"
           />
 
 

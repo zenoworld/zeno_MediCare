@@ -15,7 +15,7 @@ const Admin = async () => {
             <header className='admin-header'>
                 <Link href="/" className='cursor-pointer'>
                     <Image
-                        src="/assets/icons/logo-full.svg"
+                        src="/assets/icons/logo.png"
                         alt='logo'
                         height={32}
                         width={132}
